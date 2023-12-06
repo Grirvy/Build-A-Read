@@ -1,4 +1,4 @@
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (error) => {
         if (error) {
