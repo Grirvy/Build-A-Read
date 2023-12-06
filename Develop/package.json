@@ -1,0 +1,14 @@
+{
+  "name": "build-a-bot",
+  "version": "1.0.0",
+  "description": "README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "Grirvy",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
