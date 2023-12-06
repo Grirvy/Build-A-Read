@@ -1,5 +1,5 @@
 // Include packages needed for this application
-require('./utils/depend.js');
+require('./Develop/utils/depend.js');
 console.clear();
 
 // Create a function to initialize app
@@ -49,7 +49,7 @@ askQuestions()
             }, 3000);
 
             setTimeout(() => {
-                require('./index2.js');
+                require('./Develop/index2.js');
             }, 10000);
         }
 });
