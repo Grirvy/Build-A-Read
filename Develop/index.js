@@ -1,13 +1,12 @@
 // TODO: Include packages needed for this application
-
-// TODO: Create an array of questions for user input
-const questions = [];
-
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+require('./utils/depend.js');
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    let text = `Welcome to BuildARead! Let's build a README.md file for your project!\n`;
+        console.log(text);
+        
+};
 
 // Function call to initialize app
 init();
