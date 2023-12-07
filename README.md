@@ -1,4 +1,5 @@
 # Build-A-Read
+Link to video - https://youtu.be/E_WWtAc7Jzw
 
 ## User Story
 
